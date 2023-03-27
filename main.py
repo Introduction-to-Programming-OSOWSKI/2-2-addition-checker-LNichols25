@@ -1,2 +1,2 @@
-def addcheck(1,1,2):
-    if (x + y) == True
+def addcheck(x,y,z):
+    if (x + y) == 
