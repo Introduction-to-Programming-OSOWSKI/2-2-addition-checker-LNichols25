@@ -1,1 +1,1 @@
-#WRITE YOUR CODE HERE
+def addcheck(1,1,2) == True
